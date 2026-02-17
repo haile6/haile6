@@ -17,17 +17,7 @@
 
 ---
 
-## 💻 Featured Project: vTEC Prediction
 
-[![vTEC Prediction](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)](https://github.com/haile6/Sales-Predictions)  
-
-**vTEC Prediction Project – Addis Ababa Station**  
-- Predicting **Vertical Total Electron Content (vTEC)** to improve GPS accuracy  
-- Used **Machine Learning** (Random Forest, Linear Regression) & **Deep Learning** (Neural Networks, SVM)  
-- Includes **data cleaning, outlier detection, feature engineering**  
-- Interactive **dashboard for predictions and visualization**  
-
-🔗 [Check the Project on GitHub](https://github.com/haile6/Sales-Predictions)
 
 ---
 
